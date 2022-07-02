@@ -13,6 +13,14 @@
   
 # Description
 
+Making it easier to find out who to Raid.<br>
+<b>You will be able to see:<br></b>
+Who is Online<br>
+What are they Playing<br>
+Is it a Mature Stream?<br>
+How many viewers do they have?<br>
+How long have they been streaming?<br>
+
 This documentation generated for Better Raids V120 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
 
 ## Settings Overview
