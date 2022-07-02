@@ -1,1 +1,1 @@
-Please Update
+Update to fix states not updating properly when a person went offline.
