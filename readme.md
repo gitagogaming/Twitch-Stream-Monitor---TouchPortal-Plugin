@@ -7,21 +7,13 @@
     - [Actions](#actions)
         - [Category: BE | Better Raids](#gitago.better_raids.mainactions)
     - [States](#states)
-        - [Category: BE | Better Raids](#gitago.better_raids.mainstates)
+        - [Category: BE | Raid #15](#gitago.better_raids.raidcheck_15states)
   - [Bugs and Support](#bugs-and-suggestion)
   - [License](#license)
   
 # Description
 
-Making it easier to find out who to Raid.<br>
-<b>You will be able to see:<br></b>
-Who is Online<br>
-What are they Playing<br>
-Is it a Mature Stream?<br>
-How many viewers do they have?<br>
-How long have they been streaming?<br>
-
-This documentation generated for Better Raids V120 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
+This documentation generated for Better Raids V130 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
 
 ## Settings Overview
 | Read-only | Type | Default Value |
@@ -30,7 +22,7 @@ This documentation generated for Better Raids V120 with [Python TouchPortal SDK]
 
 | Read-only | Type | Default Value | Min. Value |
 | --- | --- | --- | --- |
-| False | number | 45 | 45 |
+| False | number | 60 | 60 |
 
 
 # Features
@@ -46,15 +38,19 @@ This documentation generated for Better Raids V120 with [Python TouchPortal SDK]
 <br>
 
 ## States
-<details open id='gitago.better_raids.mainstates'><summary><b>Category:</b> BE | Better Raids <ins>(Click to expand)</ins></summary>
+<details open id='gitago.better_raids.raidcheck_15states'><summary><b>Category:</b> BE | Raid #15 <ins>(Click to expand)</ins></summary>
 
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
-| .state.raidcheck.Channels_Online | BR | --- Total Channels Online | Un-Checked |   |
-| .state.raidcheck.Total_Raid_List | BR | --- Total Channels |  |   |
-| .state.raidcheck.AutoUpdate_Status | BR | --- Auto Update Status (ON/OFF) |  |   |
-| .state.raidcheck.AutoUpdate_TIMELEFT | BR | --- Auto Update Time Left) |  |   |
+| .state.raidcheck_15.user_name | BR | Raid #15: User Name |  |   |
+| .state.raidcheck_15.game_name | BR | Raid #15: Game Name |  |   |
+| .state.raidcheck_15.mature | BR | Raid #15: Is Mature? |  |   |
+| .state.raidcheck_15.title | BR | Raid #15: Title |  |   |
+| .state.raidcheck_15.views | BR | Raid #15: Live Time |  |   |
+| .state.raidcheck_15.livetime | BR | Raid #15 Live Time |  |   |
+| .state.raidcheck_15.live_thumb | BR | Raid #15 Live Thumbnail |  |   |
+| .state.raidcheck_15.user_thumb | BR | Raid #15 User Thumbnail |  |   |
 </details>
 
 <br>
