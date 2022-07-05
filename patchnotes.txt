@@ -1,1 +1,1 @@
-Update to fix states not updating properly when a person went offline.
+Stability Fixes + New Features are available now!
