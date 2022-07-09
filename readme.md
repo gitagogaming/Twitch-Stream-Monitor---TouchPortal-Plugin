@@ -157,7 +157,6 @@ Download latest version of plugin for your system under `Releases`
 Import the downloaded .TPP file by clicking the gear button next to email/notification icon on the desktop application.
 If this is first plugin, you will need to restart TouchPortal for it to work.
 
-<br>
 # FAQ
   
 ### **Q)** How do I add names to the List to search for?
