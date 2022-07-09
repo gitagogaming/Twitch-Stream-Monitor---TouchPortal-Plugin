@@ -31,21 +31,14 @@
 This documentation generated for Twitch Stream Monitor V151 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
 
 ## Settings Overview
-| Read-only | Type | Default Value |
-| --- | --- | --- |
-| False | text | OFF |
-
-| Read-only | Type | Default Value | Min. Value |
+| Setting Name | Description | Type | Default Value |
 | --- | --- | --- | --- |
-| False | number | 60 | 60 |
+| AutoUpdate | Auto Update - ON/OFF | text | OFF |
+| Auto Update Seconds | How often to update, if enabled | number | 60 |
+| Live Thumb Size | Change Retrieved Live Thumb Size | text | 250x140 |
+| Game Thumb Size | Change Retrieved Game Thumb Size | text | 128x128 |
 
-| Read-only | Type | Default Value |
-| --- | --- | --- |
-| False | text | 250x140 |
 
-| Read-only | Type | Default Value |
-| --- | --- | --- |
-| False | text | 128x128 |
 
 
 # Features
