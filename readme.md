@@ -57,12 +57,12 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
-| .state.raidcheck.Channels_Online | SM | --- Total Channels Online | Un-Checked |   |
-| .state.raidcheck.Total_Raid_List | SM | --- Total Channels |  |   |
-| .state.raidcheck.AutoUpdate_Status | SM | --- Auto Update Status (TRUE/FALSE) |  |   |
-| .state.raidcheck.AutoUpdate_Switch | SM | --- Auto Update Switch (ON/OFF) |  |   |
-| .state.raidcheck.AutoUpdate_TIMELEFT | SM | --- Auto Update Time Left) |  |   |
-| .state.raidcheck.RaidPreview | SM | --- Preview Raid Person) |  |   |
+| .state.raidcheck.Channels_Online | Total Channels Online | 0 | Un-Checked |   |
+| .state.raidcheck.Total_Raid_List | Total Channels from List | 0 |  |   |
+| .state.raidcheck.AutoUpdate_Status | Auto Update Status (TRUE/FALSE) | FALSE |  |   |
+| .state.raidcheck.AutoUpdate_Switch | Auto Update Switch (ON/OFF) | OFF |  |   |
+| .state.raidcheck.AutoUpdate_TIMELEFT | Auto Update Time Left | 0 |  |   |
+| .state.raidcheck.RaidPreview | Preview Raid Person | NULL |  |   |
 </details>
 
 <details id='gitago.tw_stream_monitor.Raidcheck_1states'><summary><b>Category:</b> SM | Raid #1 <small><ins>(Click to expand)</ins></small></summary>
