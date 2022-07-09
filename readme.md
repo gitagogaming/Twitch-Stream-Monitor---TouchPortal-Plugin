@@ -28,7 +28,7 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 
 ## Settings Overview
-<details open id='gitago.tw_stream_monitor.settings'><summary><b>Category:</b> SM | Twitch Stream Monitor <small><ins>(Click to expand)</ins></small></summary>
+
   
 | Setting Name | Description | Type | Default Value |
 | --- | --- | --- | --- |
@@ -40,10 +40,9 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 
 
-# Features
+# Plugin Features
 
 ## Actions
-<details open id='gitago.tw_stream_monitor.mainactions'><summary><b>Category:</b> SM | Twitch Stream Monitor <small><ins>(Click to expand)</ins></small></summary>
 
 | Action Name | Description | On Hold |
 | --- | --- | --- |
