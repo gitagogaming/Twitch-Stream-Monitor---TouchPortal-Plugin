@@ -6,6 +6,7 @@
   - [Features](#features)
     - [Actions](#actions)
     - [States](#states)
+  - [F.A.Q](#FAQ)
   - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
@@ -306,6 +307,23 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 <br>
 
+# FAQ
+  
+**Q)** How do I add names to the List to search for?<br />
+**A)** There is a plugin action called #SET-CHANNELS you can utilize to open the raid_list.txt file
+ 
+**Q)** Why arent my states aren't updating?<br />
+**A)** If your set to Auto Update and see the update timer ticking, then try a manual refresh. 
+  
+**Q)** Why are the images blurry??<br />
+**A)** You may adjust the size of the icon displayed in the plugin settings. <br />
+  Please be aware this may take up CPU usage when it retrieves a new photo.
+  
+**Q)** The plugin seems to not work anymore?<br />
+**A)** Please check your plugin settings and make sure its approved/running. <br />
+  If you have confirmed it is running then a quick restart of TouchPortal may be needed to make it work properly again. 
+  
+  
 # Bugs and Suggestion
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
