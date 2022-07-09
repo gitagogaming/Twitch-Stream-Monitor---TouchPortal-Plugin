@@ -2,8 +2,8 @@
 # Twitch-Stream-Monitor
 - [Twitch Stream Monitor](#Twitch-Stream-Monitor)
   - [Description](#description) 
-  - [Settings Overview](#Settings-Overview)
-  - [Features](#Features)
+  - [Settings Overview](#settings-overview)
+  - [Features](#features)
     - [Actions](#actions)
         - [Category: SM | Twitch Stream Monitor](#gitago.tw_stream_monitor.mainactions)
     - [States](#states)
@@ -11,24 +11,33 @@
         - [Category: SM | Raid #1](#gitago.tw_stream_monitor.Raidcheck_1states)
         - [Category: SM | Raid #2](#gitago.tw_stream_monitor.raidcheck_2states)
         - [Category: SM | Raid #3](#gitago.tw_stream_monitor.raidcheck_3states)
-        - [Category: SM | Raid #4](#gitago.tw_stream_monitor.raidcheck_4states)
-        - [Category: SM | Raid #5](#gitago.tw_stream_monitor.raidcheck_5states)
-        - [Category: SM | Raid #6](#gitago.tw_stream_monitor.raidcheck_6states)
-        - [Category: SM | Raid #7](#gitago.tw_stream_monitor.raidcheck_7states)
-        - [Category: SM | Raid #8](#gitago.tw_stream_monitor.raidcheck_8states)
-        - [Category: SM | Raid #9](#gitago.tw_stream_monitor.raidcheck_9states)
-        - [Category: SM | Raid #10](#gitago.tw_stream_monitor.raidcheck_10states)
-        - [Category: SM | Raid #11](#gitago.tw_stream_monitor.raidcheck_11states)
-        - [Category: SM | Raid #12](#gitago.tw_stream_monitor.raidcheck_12states)
-        - [Category: SM | Raid #13](#gitago.tw_stream_monitor.raidcheck_13states)
-        - [Category: SM | Raid #14](#gitago.tw_stream_monitor.raidcheck_14states)
-        - [Category: SM | Raid #15](#gitago.tw_stream_monitor.raidcheck_15states)
+        - [Category: SM | Raid #4 - #15](#gitago.tw_stream_monitor.raidcheck_4states)
   - [Bugs and Support](#bugs-and-suggestion)
   - [License](#license)
   
 # Description
+### **Use the plugin and determine who is the best choice for you without going to 10 different Twitch Pages!**
+
+Useful when you are ready to shut down your stream for the night but don't know who to raid 
+or host or just not sure what streamer to watch and just want to see your favorite list
+
+* Streamer Name
+* Streamer Picture 
+* Total Viewers
+* Time Online
+* Game Title Icon
+* Game Art Icon
+* Live Preview Icon
+* Is the Stream 18+ ?
+
+
+Are you ready to shut down your stream for the night but don't know who to raid or host?  Use the plugin and determine who is the best choice for you without going to 10 different Twitch Pages! 
+
+
 
 ## Settings Overview
+<details open id='gitago.tw_stream_monitor.settings'><summary><b>Category:</b> SM | Twitch Stream Monitor <small><ins>(Click to expand)</ins></small></summary>
+  
 | Setting Name | Description | Type | Default Value |
 | --- | --- | --- | --- |
 | AutoUpdate | Auto Update - ON/OFF | text | OFF |
@@ -42,11 +51,12 @@
 # Features
 
 ## Actions
+<details open id='gitago.tw_stream_monitor.mainactions'><summary><b>Category:</b> SM | Twitch Stream Monitor <small><ins>(Click to expand)</ins></small></summary>
 
-| Action Name | Description | On Hold | 
+| Action Name | Description | On Hold |
 | --- | --- | --- |
 | Manually Check Raid / Host List | Checks the Raid_List.txt and Updates States |  False |
-| Force Refresh State Updates | Allows you to force refresh your UI  | False | 
+| Force Refresh State Updates | Allows you to force refresh your UI  | False |
 
 
 
