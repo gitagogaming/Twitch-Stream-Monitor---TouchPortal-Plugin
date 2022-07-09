@@ -1,1 +1,6 @@
-Stability Fixes + New Features are available now!
+BUG FIXES & NEW FEATURES!
+
+ATTENTION:
+Two States have been renamed
+Viewers > viewer_count
+mature > is_mature
