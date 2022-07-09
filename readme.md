@@ -70,15 +70,15 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
-| .state.raidcheck_1.user_name | SM | Raid #1: User Name |  |   |
-| .state.raidcheck_1.game_name | SM | Raid #1: Game Name |  |   |
-| .state.raidcheck_1.is_mature | SM | Raid #1: is_mature? |  |   |
-| .state.raidcheck_1.title | SM | Raid #1: Title |  |   |
-| .state.raidcheck_1.viewer_count | SM | Raid #1: Views |  |   |
-| .state.raidcheck_1.livetime | SM | Raid #1 Live Time |  |   |
-| .state.raidcheck_1.live_thumb | SM | Raid #1 Live Thumbnail |  |   |
-| .state.raidcheck_1.user_thumb | SM | Raid #1 User Thumbnail |  |   |
-| .state.raidcheck_1.game_thumb | SM | Raid #1 Game Thumbnail |  |   |
+| .state.raidcheck_1.user_name | Channels User Name | Raid #5: User Name |  |   |
+| .state.raidcheck_1.game_name | Game Playing | Raid #5: Game Name |  |   |
+| .state.raidcheck_1.is_mature | Is Stream Rated Mature | Raid #5: is_mature? |  |   |
+| .state.raidcheck_1.title | Stream Title | Raid #5: Title |  |   |
+| .state.raidcheck_1.viewer_count | Viewer Count | Viewer Count |  |   |
+| .state.raidcheck_1.livetime | Total Time Live | Raid #5 Live Time |  |   |
+| .state.raidcheck_1.live_thumb | Live Icon Preview | Raid #5 Live Thumbnail |  |   |
+| .state.raidcheck_1.user_thumb | User Icon Preview | Raid #5 User Thumbnail |  |   |
+| .state.raidcheck_1.game_thumb | Game Icon Preview | Raid #5 Game Thumbnail |  |   |
 </details>
 
 <details id='gitago.tw_stream_monitor.raidcheck_2states'><summary><b>Category:</b> SM | Raid #2 <small><ins>(Click to expand)</ins></small></summary>
@@ -86,15 +86,15 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
-| .state.raidcheck_2.user_name | SM | Raid #2: User Name |  |   |
-| .state.raidcheck_2.game_name | SM | Raid #2: Game Name |  |   |
-| .state.raidcheck_2.is_mature | SM | Raid #2: is_mature? |  |   |
-| .state.raidcheck_2.title | SM | Raid #2: Title |  |   |
-| .state.raidcheck_2.viewer_count | SM | Raid #2: Views Time |  |   |
-| .state.raidcheck_2.livetime | SM | Raid #2 Live Time |  |   |
-| .state.raidcheck_2.live_thumb | SM | Raid #2 Live Thumbnail |  |   |
-| .state.raidcheck_2.user_thumb | SM | Raid #2 User Thumbnail |  |   |
-| .state.raidcheck_2.game_thumb | SM | Raid #2 Game Thumbnail |  |   |
+| .state.raidcheck_2.user_name | Channels User Name | Raid #5: User Name |  |   |
+| .state.raidcheck_2.game_name | Game Playing | Raid #5: Game Name |  |   |
+| .state.raidcheck_2.is_mature | Is Stream Rated Mature | Raid #5: is_mature? |  |   |
+| .state.raidcheck_2.title | Stream Title | Raid #5: Title |  |   |
+| .state.raidcheck_2.viewer_count | Viewer Count | Viewer Count |  |   |
+| .state.raidcheck_2.livetime | Total Time Live | Raid #5 Live Time |  |   |
+| .state.raidcheck_2.live_thumb | Live Icon Preview | Raid #5 Live Thumbnail |  |   |
+| .state.raidcheck_2.user_thumb | User Icon Preview | Raid #5 User Thumbnail |  |   |
+| .state.raidcheck_2.game_thumb | Game Icon Preview | Raid #5 Game Thumbnail |  |   |
 </details>
 
 <details id='gitago.tw_stream_monitor.raidcheck_3states'><summary><b>Category:</b> SM | Raid #3 <small><ins>(Click to expand)</ins></small></summary>
@@ -102,15 +102,15 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
-| .state.raidcheck_3.user_name | SM | Raid #3: User Name |  |   |
-| .state.raidcheck_3.game_name | SM | Raid #3: Game Name |  |   |
-| .state.raidcheck_3.is_mature | SM | Raid #3: is_mature? |  |   |
-| .state.raidcheck_3.title | SM | Raid #3: Title |  |   |
-| .state.raidcheck_3.viewer_count | SM | Raid #3: Live Time |  |   |
-| .state.raidcheck_3.livetime | SM | Raid #3 Live Time |  |   |
-| .state.raidcheck_3.live_thumb | SM | Raid #3 Live Thumbnail |  |   |
-| .state.raidcheck_3.user_thumb | SM | Raid #3 User Thumbnail |  |   |
-| .state.raidcheck_3.game_thumb | SM | Raid #3 Game Thumbnail |  |   |
+| .state.raidcheck_3.user_name | Channels User Name | Raid #5: User Name |  |   |
+| .state.raidcheck_3.game_name | Game Playing | Raid #5: Game Name |  |   |
+| .state.raidcheck_3.is_mature | Is Stream Rated Mature | Raid #5: is_mature? |  |   |
+| .state.raidcheck_3.title | Stream Title | Raid #5: Title |  |   |
+| .state.raidcheck_3.viewer_count | Viewer Count | Viewer Count |  |   |
+| .state.raidcheck_3.livetime | Total Time Live | Raid #5 Live Time |  |   |
+| .state.raidcheck_3.live_thumb | Live Icon Preview | Raid #5 Live Thumbnail |  |   |
+| .state.raidcheck_3.user_thumb | User Icon Preview | Raid #5 User Thumbnail |  |   |
+| .state.raidcheck_3.game_thumb | Game Icon Preview | Raid #5 Game Thumbnail |  |   |
 </details>
 
 <details id='gitago.tw_stream_monitor.raidcheck_4states'><summary><b>Category:</b> SM | Raid #4 <small><ins>(Click to expand)</ins></small></summary>
@@ -118,15 +118,15 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
-| .state.raidcheck_4.user_name | SM | Raid #4: User Name |  |   |
-| .state.raidcheck_4.game_name | SM | Raid #4: Game Name |  |   |
-| .state.raidcheck_4.is_mature | SM | Raid #4: is_mature? |  |   |
-| .state.raidcheck_4.title | SM | Raid #4: Title |  |   |
-| .state.raidcheck_4.viewer_count | SM | Raid #4: Live Time |  |   |
-| .state.raidcheck_4.livetime | SM | Raid #4 Live Time |  |   |
-| .state.raidcheck_4.live_thumb | SM | Raid #4 Live Thumbnail |  |   |
-| .state.raidcheck_4.user_thumb | SM | Raid #4 User Thumbnail |  |   |
-| .state.raidcheck_4.game_thumb | SM | Raid #4 Game Thumbnail |  |   |
+| .state.raidcheck_4.user_name | Channels User Name | Raid #5: User Name |  |   |
+| .state.raidcheck_4.game_name | Game Playing | Raid #5: Game Name |  |   |
+| .state.raidcheck_4.is_mature | Is Stream Rated Mature | Raid #5: is_mature? |  |   |
+| .state.raidcheck_4.title | Stream Title | Raid #5: Title |  |   |
+| .state.raidcheck_4.viewer_count | Viewer Count | Viewer Count |  |   |
+| .state.raidcheck_4.livetime | Total Time Live | Raid #5 Live Time |  |   |
+| .state.raidcheck_4.live_thumb | Live Icon Preview | Raid #5 Live Thumbnail |  |   |
+| .state.raidcheck_4.user_thumb | User Icon Preview | Raid #5 User Thumbnail |  |   |
+| .state.raidcheck_4.game_thumb | Game Icon Preview | Raid #5 Game Thumbnail |  |   |
 </details>
 
 <details id='gitago.tw_stream_monitor.raidcheck_5states'><summary><b>Category:</b> SM | Raid #5 <small><ins>(Click to expand)</ins></small></summary>
@@ -134,15 +134,15 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
-| .state.raidcheck_5.user_name | SM | Raid #5: User Name |  |   |
-| .state.raidcheck_5.game_name | SM | Raid #5: Game Name |  |   |
-| .state.raidcheck_5.is_mature | SM | Raid #5: is_mature? |  |   |
-| .state.raidcheck_5.title | SM | Raid #5: Title |  |   |
-| .state.raidcheck_5.viewer_count | SM | Raid #5: Live Time |  |   |
-| .state.raidcheck_5.livetime | SM | Raid #5 Live Time |  |   |
-| .state.raidcheck_5.live_thumb | SM | Raid #5 Live Thumbnail |  |   |
-| .state.raidcheck_5.user_thumb | SM | Raid #5 User Thumbnail |  |   |
-| .state.raidcheck_5.game_thumb | SM | Raid #5 Game Thumbnail |  |   |
+| .state.raidcheck_5.user_name | Channels User Name | Raid #5: User Name |  |   |
+| .state.raidcheck_5.game_name | Game Playing | Raid #5: Game Name |  |   |
+| .state.raidcheck_5.is_mature | Is Stream Rated Mature | Raid #5: is_mature? |  |   |
+| .state.raidcheck_5.title | Stream Title | Raid #5: Title |  |   |
+| .state.raidcheck_5.viewer_count | Viewer Count | Viewer Count |  |   |
+| .state.raidcheck_5.livetime | Total Time Live | Raid #5 Live Time |  |   |
+| .state.raidcheck_5.live_thumb | Live Icon Preview | Raid #5 Live Thumbnail |  |   |
+| .state.raidcheck_5.user_thumb | User Icon Preview | Raid #5 User Thumbnail |  |   |
+| .state.raidcheck_5.game_thumb | Game Icon Preview | Raid #5 Game Thumbnail |  |   |
 </details>
 
 **Up to 15 Total Pre-Created User Folders**
