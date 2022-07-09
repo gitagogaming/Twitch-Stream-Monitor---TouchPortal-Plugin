@@ -5,15 +5,8 @@
   - [Settings Overview](#settings-overview)
   - [Features](#features)
     - [Actions](#actions)
-        - [Category: SM | Twitch Stream Monitor](#gitago.tw_stream_monitor.mainactions)
     - [States](#states)
-        - [Category: SM | Twitch Stream Monitor](#gitago.tw_stream_monitor.mainstates)
-        - [Category: SM | Raid #1](#gitago.tw_stream_monitor.Raidcheck_1states)
-        - [Category: SM | Raid #2](#gitago.tw_stream_monitor.raidcheck_2states)
-        - [Category: SM | Raid #3](#gitago.tw_stream_monitor.raidcheck_3states)
-        - [Category: SM | Raid #4 - #15](#gitago.tw_stream_monitor.raidcheck_4states)
   - [Bugs and Support](#bugs-and-suggestion)
-  - [License](#license)
   
 # Description
 ### **Use the plugin and determine who is the best choice for you without going to 10 different Twitch Pages!**
