@@ -10,7 +10,7 @@
   - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
-### **Use the plugin and determine who is the best choice for you without going to 10 different Twitch Pages!**
+### **Use the plugin and determine who is the best choice for you to Watch/Host/Raid without going to 20+ different Twitch Pages!**
 
 Useful when you are ready to shut down your stream for the night but don't know who to raid 
 or host or just not sure what streamer to watch and just want to see your favorite list
