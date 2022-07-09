@@ -6,6 +6,7 @@
   - [Features](#features)
     - [Actions](#actions)
     - [States](#states)
+  - [Installation](#Installation)
   - [F.A.Q](#FAQ)
   - [Bugs and Support](#bugs-and-suggestion)
   
@@ -151,6 +152,12 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 <br>
 
+# Installation
+Download latest version of plugin for your system under `Releases`
+Import the downloaded .TPP file by clicking the gear button next to email/notification icon on the desktop application.
+If this is first plugin, you will need to restart TouchPortal for it to work.
+
+<br>
 # FAQ
   
 ### **Q)** How do I add names to the List to search for?
