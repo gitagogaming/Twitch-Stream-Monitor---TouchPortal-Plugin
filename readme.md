@@ -31,9 +31,6 @@ or host or just not sure what streamer to watch and just want to see your favori
 * Is the Stream 18+ ?
 
 
-Are you ready to shut down your stream for the night but don't know who to raid or host?  Use the plugin and determine who is the best choice for you without going to 10 different Twitch Pages! 
-
-
 
 ## Settings Overview
 <details open id='gitago.tw_stream_monitor.settings'><summary><b>Category:</b> SM | Twitch Stream Monitor <small><ins>(Click to expand)</ins></small></summary>
