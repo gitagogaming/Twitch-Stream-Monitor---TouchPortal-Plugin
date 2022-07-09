@@ -309,18 +309,18 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 # FAQ
   
-**Q)** How do I add names to the List to search for?<br />
+### **Q)** How do I add names to the List to search for?
 **A)** There is a plugin action called #SET-CHANNELS you can utilize to open the raid_list.txt file
  
-**Q)** Why arent my states aren't updating?<br />
+### **Q)** Why arent my states aren't updating?
 **A)** If your set to Auto Update and see the update timer ticking, then try a manual refresh. 
   
-**Q)** Why are the images blurry??<br />
-**A)** You may adjust the size of the icon displayed in the plugin settings. <br />
+### **Q)** Why are the images blurry?
+**A)** You may adjust the size of the icon displayed in the plugin settings.<br />
   Please be aware this may take up CPU usage when it retrieves a new photo.
   
-**Q)** The plugin seems to not work anymore?<br />
-**A)** Please check your plugin settings and make sure its approved/running. <br />
+### **Q)** The plugin seems to not work anymore?
+**A)** Please check your plugin settings and make sure its approved/running.<br />
   If you have confirmed it is running then a quick restart of TouchPortal may be needed to make it work properly again. 
   
   
