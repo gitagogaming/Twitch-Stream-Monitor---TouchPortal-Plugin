@@ -28,8 +28,6 @@
   
 # Description
 
-This documentation generated for Twitch Stream Monitor V151 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
-
 ## Settings Overview
 | Setting Name | Description | Type | Default Value |
 | --- | --- | --- | --- |
@@ -44,18 +42,13 @@ This documentation generated for Twitch Stream Monitor V151 with [Python TouchPo
 # Features
 
 ## Actions
-<details open id='gitago.tw_stream_monitor.mainactions'><summary><b>Category:</b> SM | Twitch Stream Monitor <small><ins>(Click to expand)</ins></small></summary><table>
-<tr valign='buttom'><th>Action Name</th><th>Description</th><th>Format</th><th nowrap>Data<br/><div align=left><sub>choices/default (in bold)</th><th>On<br/>Hold</sub></div></th></tr>
-<tr valign='top'><td>Manually Check Raid / Host List</td><td> </td><td>Manually Check Raid / Host List</td><td><ol start=1><li>Type: text &nbsp; 
-&lt;empty&gt;</li>
-</ol></td>
-<td align=center>No</td>
-<tr valign='top'><td>Force Refresh State Updates</td><td> </td><td>Force Refresh State Updates</td><td><ol start=1><li>Type: text &nbsp; 
-&lt;empty&gt;</li>
-</ol></td>
-<td align=center>No</td>
-</tr></table></details>
-<br>
+
+| Action Name | Description | On Hold | 
+| --- | --- | --- |
+| Manually Check Raid / Host List | Checks the Raid_List.txt and Updates States |  False |
+| Force Refresh State Updates | Allows you to force refresh your UI  | False | 
+
+
 
 ## States
 <details id='gitago.tw_stream_monitor.mainstates'><summary><b>Category:</b> SM | Twitch Stream Monitor <small><ins>(Click to expand)</ins></small></summary>
