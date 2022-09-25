@@ -1,3 +1,4 @@
+V1.6.0 Update Notes
 -New Actions
 **Turn On/Off Auto Update** -- You can now turn on and off auto update via an action 
 **Open RaidList File** -- For easy access theres now an action to open your raidlist file for editing.
