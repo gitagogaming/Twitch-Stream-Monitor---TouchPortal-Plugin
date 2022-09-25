@@ -1,6 +1,14 @@
-BUG FIXES & NEW FEATURES!
+-New Actions
+**Turn On/Off Auto Update** -- You can now turn on and off auto update via an action 
+**Open RaidList File** -- For easy access theres now an action to open your raidlist file for editing.
 
-ATTENTION:
-Two States have been renamed
-Viewers > viewer_count
-mature > is_mature
+-New Settings
+`Live Image Preview Refresh Rate (Seconds)` -- This allows you to change the update frequency on live image previews when auto update is on.
+
+-State Fixes
+The state showing if auto update is enabled/disabled should now be working properly. `${value:gitago.tw_stream_monitor.state.raidcheck.AutoUpdate_Switch}`
+
+- Bug Fixes 
+Fixed issue with Lowercase OFF/ON not being accepted in plugin settings.
+Fixed issue with auto-update not working correctly upon bootup when set via settings
+Fixed issue with Stream Live Images not updating after the first time
