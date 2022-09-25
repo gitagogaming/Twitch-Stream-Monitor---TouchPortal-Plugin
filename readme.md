@@ -37,21 +37,13 @@ or host or just not sure what streamer to watch and just want to see your favori
 | Read-only | Type | Default Value |
 | --- | --- | --- |
 | False | text | OFF |
-
 | Read-only | Type | Default Value | Min. Value |
-| --- | --- | --- | --- |
 | False | number | 60 | 60 |
-
 | Read-only | Type | Default Value |
-| --- | --- | --- |
 | False | text | 250x140 |
-
 | Read-only | Type | Default Value |
-| --- | --- | --- |
 | False | text | 128x128 |
-
 | Read-only | Type | Default Value | Min. Value |
-| --- | --- | --- | --- |
 | False | number | 240 | 30 |
 
 
