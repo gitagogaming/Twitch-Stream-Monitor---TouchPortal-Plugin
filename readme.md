@@ -194,6 +194,4 @@ If this is first plugin, you will need to restart TouchPortal for it to work.
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
 
-# License
-This plugin is licensed under the [GPL 3.0 License] - see the [LICENSE](LICENSE) file for more information.
 
