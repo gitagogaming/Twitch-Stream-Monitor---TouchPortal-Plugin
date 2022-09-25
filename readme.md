@@ -33,12 +33,27 @@ or host or just not sure what streamer to watch and just want to see your favori
 ## Settings Overview
 
   
-| Setting Name | Description | Type | Default Value |
+## Settings Overview
+| Read-only | Type | Default Value |
+| --- | --- | --- |
+| False | text | OFF |
+
+| Read-only | Type | Default Value | Min. Value |
 | --- | --- | --- | --- |
-| AutoUpdate | Auto Update - ON/OFF | text | OFF |
-| Auto Update Seconds | How often to update, if enabled | number | 60 |
-| Live Thumb Size | Change Retrieved Live Thumb Size | text | 250x140 |
-| Game Thumb Size | Change Retrieved Game Thumb Size | text | 128x128 |
+| False | number | 60 | 60 |
+
+| Read-only | Type | Default Value |
+| --- | --- | --- |
+| False | text | 250x140 |
+
+| Read-only | Type | Default Value |
+| --- | --- | --- |
+| False | text | 128x128 |
+
+| Read-only | Type | Default Value | Min. Value |
+| --- | --- | --- | --- |
+| False | number | 240 | 30 |
+
 
 
 
@@ -49,8 +64,10 @@ or host or just not sure what streamer to watch and just want to see your favori
 
 | Action Name | Description | On Hold |
 | --- | --- | --- |
+| Toggle Auto Update | Turn Auto Update On or Off | False 
 | Manually Check Raid / Host List | Checks the Raid_List.txt and Updates States |  False |
 | Force Refresh State Updates | Allows you to force refresh your UI  | False |
+| Open RaidList File | Easy access to your raidlist file to remove/add names | False
 
 
 
@@ -65,7 +82,6 @@ or host or just not sure what streamer to watch and just want to see your favori
 | .state.raidcheck.AutoUpdate_Status | Auto Update Status (TRUE/FALSE) | FALSE |  |   |
 | .state.raidcheck.AutoUpdate_Switch | Auto Update Switch (ON/OFF) | OFF |  |   |
 | .state.raidcheck.AutoUpdate_TIMELEFT | Auto Update Time Left | 0 |  |   |
-| .state.raidcheck.RaidPreview | Preview Raid Person | NULL |  |   |
 </details>
 
 <details id='gitago.tw_stream_monitor.Raidcheck_1states'><summary><b>Category:</b> SM | Raid #1 <small><ins>(Click to expand)</ins></small></summary>
